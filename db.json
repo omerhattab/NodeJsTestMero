@@ -52,7 +52,7 @@
         "bgImage": "",
         "status": true,
         "type": "words",
-        "subMenu": ""
+        "subMenu": "etkileyici"
       },
       {
         "id": 6,
@@ -61,7 +61,7 @@
         "bgImage": "",
         "status": true,
         "type": "words",
-        "subMenu": ""
+        "subMenu": "anlamli"
       },
       {
         "id": 7,
@@ -70,7 +70,7 @@
         "bgImage": "",
         "status": true,
         "type": "words",
-        "subMenu": ""
+        "subMenu": "ask"
       },
       {
         "id": 8,
@@ -79,7 +79,7 @@
         "bgImage": "",
         "status": true,
         "type": "words",
-        "subMenu": ""
+        "subMenu": "nasihat"
       },
       {
         "id": 9,
@@ -88,7 +88,7 @@
         "bgImage": "",
         "status": true,
         "type": "storys",
-        "subMenu": ""
+        "subMenu": "basari"
       },
       {
         "id": 10,
@@ -97,7 +97,7 @@
         "bgImage": "",
         "status": true,
         "type": "storys",
-        "subMenu": ""
+        "subMenu": "basarisizolma"
       },
       {
         "id": 11,
@@ -106,7 +106,7 @@
         "bgImage": "",
         "status": true,
         "type": "storys",
-        "subMenu": ""
+        "subMenu": "dusundurenetkileyici"
       },
       {
         "id": 12,
@@ -115,7 +115,7 @@
         "bgImage": "",
         "status": true,
         "type": "storys",
-        "subMenu": ""
+        "subMenu": "dini"
       },
       {
         "id": 13,
@@ -124,7 +124,7 @@
         "bgImage": "",
         "status": true,
         "type": "suggestions",
-        "subMenu": ""
+        "subMenu": "kendimicinbironeri"
       }
     ],
     "header": [
@@ -303,6 +303,7 @@
       {
         "id": 1,
         "title": "Eğer aşağıya bakarsanız gökkuşağını asla göremezsiniz",
+        "subMenu":"etkileyici",
         "author": "",
         "level": 2,
         "bgHexColor": "#5F6676",
@@ -312,6 +313,7 @@
       {
         "id": 2,
         "title": "Dahiler, çağlarını aydınlatmak için yanmaya mahkûm göktaşlarıdır.",
+        "subMenu":"anlamli",
         "author": "",
         "level": 1,
         "bgHexColor": "#5F6676",
@@ -321,6 +323,7 @@
       {
         "id": 3,
         "title": "Uçmayı çok seviyorsan, bazen düşmesini de bileceksin.",
+        "subMenu":"nasihat",
         "author": "",
         "level": 1,
         "bgHexColor": "#5F6676",
@@ -330,6 +333,7 @@
       {
         "id": 4,
         "title": "İnsanlar seninle konuşmayı bıraktığında, arkandan konuşmaya başlarlar...",
+        "subMenu":"nasihat",
         "author": "",
         "level": 1,
         "bgHexColor": "#5F6676",
@@ -339,6 +343,7 @@
       {
         "id": 5,
         "title": "Kar tanelerinde muhteşem bir anlam gizlidir, o da birbirine zarar vermeden yol almanın mümkün olmasıdır.",
+        "subMenu":"anlamli",
         "author": "",
         "level": 2,
         "bgHexColor": "#5F6676",
