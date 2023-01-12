@@ -303,6 +303,7 @@
       {
         "id": 1,
         "title": "Eğer aşağıya bakarsanız gökkuşağını asla göremezsiniz",
+        "subTitle":"Etkileyici",
         "subMenu":"etkileyici",
         "author": "",
         "level": 2,
@@ -313,6 +314,7 @@
       {
         "id": 2,
         "title": "Dahiler, çağlarını aydınlatmak için yanmaya mahkûm göktaşlarıdır.",
+        "subTitle":"Anlamlı",
         "subMenu":"anlamli",
         "author": "",
         "level": 1,
@@ -323,6 +325,7 @@
       {
         "id": 3,
         "title": "Uçmayı çok seviyorsan, bazen düşmesini de bileceksin.",
+        "subTitle":"Nasihat",
         "subMenu":"nasihat",
         "author": "",
         "level": 1,
@@ -334,6 +337,7 @@
         "id": 4,
         "title": "İnsanlar seninle konuşmayı bıraktığında, arkandan konuşmaya başlarlar...",
         "subMenu":"nasihat",
+        "subTitle":"Nasihat",
         "author": "",
         "level": 1,
         "bgHexColor": "#5F6676",
@@ -344,6 +348,7 @@
         "id": 5,
         "title": "Kar tanelerinde muhteşem bir anlam gizlidir, o da birbirine zarar vermeden yol almanın mümkün olmasıdır.",
         "subMenu":"anlamli",
+        "subTitle":"Anlamlı",
         "author": "",
         "level": 2,
         "bgHexColor": "#5F6676",
